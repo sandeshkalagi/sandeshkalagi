@@ -5,7 +5,7 @@ Tech Stack:
 .
 .
 .
-GitHub Stats:
+  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sandeshkalagi&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sandeshkalagi&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshkalagi&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
